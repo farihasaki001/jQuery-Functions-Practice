@@ -1,0 +1,64 @@
+#flip{
+	background-color: pink;
+	padding: 20px 0;
+}
+
+#panel{
+	background-color: yellow;
+	padding: 20px 0;
+}
+.flipp{
+	padding: 20px 0;
+	background-color: red;
+}
+#panell{
+	background-color: blue;
+	padding: 20px 0;
+}
+hr{
+	border: 2px solid black;
+}
+ .ull {
+    margin-left: 20px;
+    color: blue;
+  }
+  .lii {
+    cursor: default;
+  }
+  .lii.active {
+    background: black;
+    color: white;
+  }
+  span {
+    color:red;
+  }
+
+  table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 8px 0;
+   text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+/*
+ .block{
+    background-color: red;
+    left: 0px;
+    top: 30px;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+  }*/
+#draggable {
+ width: 150px; 
+ height: 150px; 
+ padding: 0.5em; 
+ color: red;
+}
